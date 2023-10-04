@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "R.Wu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ruofan Wu"
 description              : &description "personal description"
 url                      : "https://wuruofanann.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
