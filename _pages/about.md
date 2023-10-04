@@ -12,6 +12,6 @@ I am a PhD student in the Department of Chinese and Bilingual Studies at the Hon
 
 Previously, I obtained a BA in Linguistics from City University of Hong Kong, with a thesis looking at age-related phonetic variations in Wu Chinese. After that, I got an MSc in Psychology from the University of Edinburgh, with a thesis examining reading patterns in bilingual young adults.
 
-I was brought up in Beijing and came to Hong Kong when I started my undergraduate studies. My maternal and paternal families were from [Wuxi](https://www.britannica.com/place/Wuxi), Jiangsu (Dialect: Northern Wu Chinese) and [Xichang](https://en.wikipedia.org/wiki/Liangshan_Yi_Autonomous_Prefecture), Sichuan (Dialect: Southeastern Mandarin; and [Nuosu Yi](https://en.wikipedia.org/wiki/Nuosu_language)), respectively.
+I was brought up in Beijing and came to Hong Kong when I started my undergraduate studies. My maternal and paternal families were from [Wuxi](https://www.britannica.com/place/Wuxi), Jiangsu (Dialect: Northern Wu Chinese) and [Xichang](https://en.wikipedia.org/wiki/Liangshan_Yi_Autonomous_Prefecture), Sichuan (Dialect: Southwestern Mandarin; and [Nuosu Yi](https://en.wikipedia.org/wiki/Nuosu_language)), respectively.
 
 The website is still undergoing construction so please wait for more content to come.
