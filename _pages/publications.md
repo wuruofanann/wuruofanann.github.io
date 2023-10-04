@@ -6,6 +6,6 @@ author_profile: true
 ---
 ## Publications
 
-## Conferences
+## Conference proceedings
 
-
+## Conference talks & posters
