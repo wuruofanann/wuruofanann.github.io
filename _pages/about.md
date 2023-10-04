@@ -14,4 +14,4 @@ Previously, I obtained a BA in Linguistics from City University of Hong Kong, wi
 
 I was brought up in Beijing and came to Hong Kong when I started my undergraduate studies. My maternal and paternal families were from [Wuxi](https://www.britannica.com/place/Wuxi), Jiangsu (Dialect: Northern Wu Chinese) and [Xichang](https://en.wikipedia.org/wiki/Liangshan_Yi_Autonomous_Prefecture), Sichuan (Dialect: Southeastern Mandarin; and [Nuosu Yi](https://en.wikipedia.org/wiki/Nuosu_language)), respectively.
 
-The website is still undergoing construction so please wait for more contents to come.
+The website is still undergoing construction so please wait for more content to come.
