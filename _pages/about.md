@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Chinese and Bilingual Studies at the Hong Kong Polytechnic University. My current research interest broadly lies in neurodevelopmental language disorders and how language processing interacts with different aspects of cognition in such populations.
+I am a PhD student in the Department of Chinese and Bilingual Studies at the Hong Kong Polytechnic University. My current research interest broadly lies in language use in neurodevelopmental disorders.
 
 Previously, I obtained a BA in Linguistics from City University of Hong Kong, with a thesis looking at age-related phonetic variations in Wu Chinese. After that, I got an MSc in Psychology from the University of Edinburgh, with a thesis examining reading patterns in bilingual young adults.
 
