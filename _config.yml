@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruofan Wu"
   avatar           : "1.png"
-  bio              : "PhD student"
+  bio              : "PhD candidate"
   location         : "Hong Kong"
   employer         :
   email            : "ruofan-ann.wu@connect.polyu.hk"
@@ -95,7 +95,7 @@ author:
   facebook         :
   foursquare       :
   github           : 
-  google_plus      :
+  google_plus      : "https://scholar.google.com/citations?user=2JS3OYIAAAAJ&hl=en"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ruofanwu2"
+  twitter          :
   vine             :
   weibo            :
   xing             :
