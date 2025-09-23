@@ -5,7 +5,7 @@ title: ""
 author_profile: true
 ---
 
-## Journal Publications
+## Journal Publications (* = equal contribution)
 Qin, Z., Jin, R.* & **Wu, R.*** (2025). The role of prior knowledge in second-language learners’ overnight consolidation of Cantonese tones. *Journal of Phonetics, 111*, 101417.
 
 Qin, Z., **Wu, R.**, & Zhang, C. (2025). Daytime naps consolidate Cantonese tone learning through promoting cross-talker perception: The role of prior knowledge. *Brain and Language, 265*, 105568.
